@@ -76,6 +76,10 @@
 // --  Decrement (Decreases a value by 1)
 // ** Exponentiation (Raise to the power of base)
 
+// Modulus Remainder 
+// 10%3 =1
+
+
 
 // Increment Operators
 // Two type of Increment 
@@ -84,13 +88,13 @@
 
 
 // prefix
-var a = 10;
-console.log(++a) // First Increases than print
+// var a = 10;
+// console.log(++a) // First Increases than print
 // Output = 11
 
 // postfix
-var b = 10;
-console.log(b++) // First Print than Increases
+// var b = 10;
+// console.log(b++) // First Print than Increases
 // Output = 10
 
 // Decrement Operators
@@ -100,20 +104,41 @@ console.log(b++) // First Print than Increases
 
 // Prefix
 
-var c = 10;
-console.log(--c);
+// var c = 10;
+// console.log(--c);
 // Output = 9
 
 //  Postfix
-var d = 10;
-console.log(d--);
+// var d = 10;
+// console.log(d--);
 // Output = 10
 
 
 // ** Exponentiation
 
-var base = 2;
-var exponent = 3;
-var Result = base ** exponent;
+// var base = 2;
+// var exponent = 3;
+// var Result = base ** exponent;
 
-console.log(Result);
+// console.log(Result);
+
+// 2. Assignment Operators
+// 1. = (Simple Assignment) Basic 
+// 2. += (Addition Assignment)
+// 3. -= (Subtraction Assignment)
+// 4. *= (Multiplication Assignment)
+// 5. /= (Division Assignment)
+// 6. %= (Modulus Assignment)
+
+
+// var a  = 5;
+
+// a +=5; //It's means  a = a+5
+// a -=5; //It's means  a = a-5
+// a *=5; //It's means  a = a*5
+// a /=5; //It's means  a = a/5
+// a %=5; //It's means  a = a%5
+
+// console.log(a);
+
+
