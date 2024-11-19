@@ -60,11 +60,11 @@
 // 2. Assignment Operators
 // 3. Comparison Operators
 // 4. Logical Operators
-// 5. Bitwise Operators
+// 5. Bitwise Operators ❌
 // 6. Ternary Operators
-// 7. String Operators
-// 8. Type Operators
-// 9. Nullish Coalescing Operators 
+// 7. String Operators 
+// 8. Type Operators 
+// 9. Nullish Coalescing Operators  ❌
 
 // 1. Arithmetic Operators
 // + Addition
@@ -142,3 +142,62 @@
 // console.log(a);
 
 
+// 3. Comparison Operators 
+// compare
+// 1. == (Equal to)
+// 2. != (Not Equal to)
+// 3. === (Strict Equal to)
+// 4. !== (Strict Not Equal to)
+// 5. > (Greater than) 
+// 6. < (Less than)
+// 7. >= (Greater than or Equal to)
+// 8. <= (Less than or Equal to)
+
+
+
+// var a =5; // number value
+// var b = '5'; // string value
+// console.log(a===b);
+
+
+// var a =6; // number value
+// var b = 7; // string value
+
+// console.log(b >= a);
+
+
+
+// 4. Logical Operators
+// 1. && (Logical AND)
+// 2. || (Logical OR)
+// 3. ! (Logical NOT)
+
+// console.log(5>4 && 5<6); 
+// console.log(5>4 && 5<6 && 5>7);
+// console.log(true && 5>7);
+// console.log(true && false) // false
+
+// && Logical and 
+// Jagbir   &&     Jageshewar Goa 
+    // ✅     &&      ❌  = ❌
+    // ❌     &&      ✅  = ❌
+    // ❌     &&      ❌  = ❌
+    // ✅     &&      ✅  = ✅
+
+
+    // 2. || (Logical OR)
+
+    // Jagbir  ||     Jageshewar Movie
+    // ✅     ||      ❌  = ✅
+    // ❌     ||      ✅  = ✅
+    // ❌     ||      ❌  = ❌
+    // ✅     ||      ✅  = ✅
+
+
+    // console.log(5>4 || 5>6); // true
+    // console.log(5<4 || 5<6);// true
+    // console.log(5<4 || 5>6); // false
+    // console.log(5>4 || 5<6); // true
+    // console.log(5<4 || 5>6 || 5>7); // true
+
+    // console.log(!true);
