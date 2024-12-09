@@ -201,3 +201,65 @@
     // console.log(5<4 || 5>6 || 5>7); // true
 
     // console.log(!true);
+
+
+    // Ternary Operators
+    // Condition ? value_if_true : value_if_false
+
+
+// var AgeOfJagbir = 12;
+
+// AgeOfJagbir >=18 ? console.log("Vaild For Vote") : console.log("Invalid for vote"); 
+// Single line if else 
+
+
+// String Operators 
+// +  = concatenation
+// += = concatenation Assignment
+
+// var a =  "Jagbir";
+// var b = " Singh";
+// console.log(a+b);
+
+
+// var a =  5;
+// var b = "Jagbir";
+// console.log(a+b);
+
+// var a =  "hello";
+// a += " Jagbir";
+// console.log(a);
+
+// 8. Type Operators
+// typeof
+
+// var a = null;
+// console.log(typeof(a));
+
+// var a = 5;
+// var b = 6;
+
+// if (a>b && b>a) {
+//     console.log("Hello");
+// }
+// else{
+//     console.log("Man lete hai");
+// }
+
+// if ke sath ke hamesha condition lagate hai 
+// else condition nahi lagate hai
+
+
+// if else else if
+
+// if (5>4){
+//  console.log("Hello")
+// }
+
+// else if(6<8){
+//     console.log("Hello2")
+// }
+
+// else{
+//     console.log("Hello2")
+// }
