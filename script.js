@@ -263,3 +263,154 @@
 // else{
 //     console.log("Hello2")
 // }
+
+
+
+// var a = 55;
+// var b = 100;
+// var c = 255;
+// if (a>b && a>c) {
+//     console.log("A is greater b and c");
+// }
+// else if (b>c && b>a){
+//     console.log("B is greater than c and a");
+// }
+// else{
+// console.log("C is greater than a and b");
+// }
+
+
+// even%2  == 0 
+// odd%2 == 1
+
+
+// 2000 %100
+// 1996 %4 
+// 2016%4==0
+// 2100
+// 2025 
+
+// Loop =  loop is a cycle
+
+
+
+// print 1
+// print 2
+// print 3
+// print 4
+// .
+// .
+// print 1000
+
+
+// print 1
+// print 1
+// print 1
+// print 1
+// print 1
+// print 1
+// print 1
+// print 1
+// print 1
+// print 1
+// print 1
+// print 1
+
+// print 1
+// print 1
+// print 1
+// print 1
+// print 1
+// print 1
+// print 1
+// print 1
+// print 1
+// print 1
+// print 1
+// print 1print 1
+// print 1
+// print 1
+// print 1
+// print 1
+// print 1
+
+// print 1
+// print 1
+// print 1
+// print 1
+// print 1
+// print 1
+
+// print 1
+// print 1
+// print 1
+// print 1
+
+// print 1
+// print 1
+// print 1
+// print 1
+
+// for 
+// while ❌
+// do while ❌
+// for in
+// for of ❌
+// for each
+
+// for(var i = 1; i<=15; i++){
+//     // block of code 
+//     console.log(i);
+// }
+
+
+// for is loop
+// for is keyword
+// var variable ko declear karne ka tarika
+// i variable
+// i = 1 
+// i<=15 condition
+// i++ / i-- increment / decrement
+// console.log(i); value print
+
+// step - I 
+// check for 
+// for is keyword or loop
+// step - II -> var i = 1
+// step - II -> Condition(i<=15)
+// Step - III -> block of code if condition is true
+// step -IV -> Increment / Dicrement 
+
+
+// for(var i = 1; i<=15; i++){
+//     // block of code 
+//     console.log(i);
+// }
+
+// this will not print because of break statement
+
+
+
+// var a = 5;
+// var b  =10;
+// while (a<b) {
+//     console.log(a)
+//     a++;
+// }
+
+
+// while(condition){
+// // block of code 
+// // scope
+// }
+// var a = 5;
+// var b  =10;
+// do {
+//    console.log("Hello");
+// } while (a<b);
+
+var array = [5,6,9,7];
+
+array.forEach(element => {
+    console.log(element)
+});
