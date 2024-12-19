@@ -409,8 +409,26 @@
 //    console.log("Hello");
 // } while (a<b);
 
-var array = [5,6,9,7];
+// var array = [5,6,9,7];
 
-array.forEach(element => {
-    console.log(element)
-});
+// array.forEach(element => {
+//     console.log(element)
+// });
+// Function Is group of code.Function
+
+
+
+()=>{
+    console.log("Hello");
+}
+
+
+
+function add(a,b) {
+    console.log(a+b);
+}
+
+add(5,3)
+
+let 
+
